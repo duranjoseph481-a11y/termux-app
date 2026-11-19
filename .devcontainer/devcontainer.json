@@ -1,3 +1,21 @@
+图片翻译
+1、图片翻译有哪些限制？
+翻译狗图片翻译功能设有以下使用规则：若您遇到特殊格式无法上传翻译，可先转换为上述支持格式后再尝试；学术论文常用的 CAJ 格式，可转换为 PDF 格式后上传翻译，完美还原原文排版。
+
+3、翻译狗文档翻译上传文件有大小限制吗？最大能传多大？
+为保障翻译质量与系统稳定性，翻译狗对上传文档设置了清晰的大小规则，具体如下： 
+
+温馨提示：• Pinout Connection: nect the standard JTAG pins between your adapter and the target device:
+	• TDI (Test Data In)
+	• TDO (Test Data Out)
+	• TCK (Test Clock)
+	• TMS (Test Mode Select)
+	• GND (Ground) & VREF (Target Voltage Reference)
+	• 
+
+• ✅ 翻译完成后，可免费查看 1 页完整译文，直观体验 1:1 格式无损还原效果
+
+• ✅ 无套路、不限体验次数，随时可上传试用，立即上传试试吧！
 {<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
